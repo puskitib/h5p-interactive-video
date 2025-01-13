@@ -79,23 +79,23 @@
           ]
         },
         {
-          "label": "Add interactions",
+          "label": "Interakció hozzáadása",
           "fields": [
             {
               "field": {
                 "fields": [
                   {
-                    "label": "Display time"
+                    "label": "Megjelenítési idő"
                   },
                   {
-                    "label": "Pause video"
+                    "label": "Videó szüneteltetése"
                   },
                   {
                     "label": "Megjelenítés mint",
                     "description": "<b>Button</b> is a collapsed interaction the user must press to open. <b>Poster</b> is an expanded interaction displayed directly on top of the video",
                     "options": [
                       {
-                        "label": "Button"
+                        "label": "Gomb"
                       },
                       {
                         "label": "Poster"
@@ -103,10 +103,10 @@
                     ]
                   },
                   {
-                    "label": "Turn into button on small screens"
+                    "label": "Váltás gombbá kis képernyőkön"
                   },
                   {
-                    "label": "Label",
+                    "label": "Felirat",
                     "description": "Label displayed next to interaction icon."
                   },
                   {},
@@ -116,7 +116,7 @@
                   {},
                   {},
                   {
-                    "label": "Adaptivity",
+                    "label": "Adaptivitás",
                     "fields": [
                       {
                         "label": "Action on all correct",
@@ -176,7 +176,7 @@
                     "label": "Go to on click",
                     "fields": [
                       {
-                        "label": "Type",
+                        "label": "Típus",
                         "options": [
                           {
                             "label": "Timecode"
@@ -229,7 +229,7 @@
           ]
         },
         {
-          "label": "Summary task",
+          "label": "Összefoglaló feladat",
           "fields": [
             {},
             {
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "label": "Behavioural settings",
+      "label": "Viselkedési beállítások",
       "fields": [
         {
           "label": "Start video at",
